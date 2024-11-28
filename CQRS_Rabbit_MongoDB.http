@@ -1,0 +1,6 @@
+@CQRS_Rabbit_MongoDB_HostAddress = http://localhost:5165
+
+GET {{CQRS_Rabbit_MongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
